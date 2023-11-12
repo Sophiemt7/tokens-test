@@ -1,0 +1,78 @@
+{
+  "global": {
+    "Base": {
+      "Purple-100": {
+        "value": "#c1b1f4",
+        "type": "color"
+      },
+      "Purple-200": {
+        "value": "#9579ef",
+        "type": "color"
+      },
+      "Purple-400": {
+        "value": "#673deb",
+        "type": "color"
+      },
+      "Purple-300": {
+        "value": "#7c58eb",
+        "type": "color"
+      },
+      "Blue-300": {
+        "value": "#3db9eb",
+        "type": "color"
+      },
+      "Blue-100": {
+        "value": "#b1def0",
+        "type": "color"
+      },
+      "Blue-200": {
+        "value": "#83d2f2",
+        "type": "color"
+      },
+      "Blue-400": {
+        "value": "#0e90c4",
+        "type": "color"
+      }
+    },
+    "Especifico": {
+      "color-bg-01": {
+        "value": "{Base.Purple-100}",
+        "type": "color"
+      },
+      "color-bg-02": {
+        "value": "{Base.Purple-200}",
+        "type": "color"
+      },
+      "color-bg-04": {
+        "value": "{Base.Purple-400}",
+        "type": "color"
+      },
+      "color-bg-03": {
+        "value": "{Base.Purple-300}",
+        "type": "color"
+      },
+      "color-bg-b03": {
+        "value": "{Base.Blue-300}",
+        "type": "color"
+      },
+      "color-bg-b01": {
+        "value": "{Base.Blue-100}",
+        "type": "color"
+      },
+      "color-bg-b02": {
+        "value": "{Base.Blue-200}",
+        "type": "color"
+      },
+      "color-bg-b04": {
+        "value": "{Base.Blue-400}",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
